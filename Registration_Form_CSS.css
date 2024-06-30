@@ -1,0 +1,65 @@
+.container {
+    background-color: #291e50;
+    height: 100vh;
+    width: 100vw;
+    padding: 80px;
+
+}
+
+.card {
+    background-color: #add8e6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top-left-radius: 70px;
+    padding: 30px;
+    border-bottom-right-radius: 70px;
+
+}
+
+
+
+.main-heading {
+    text-align: center;
+    margin-top: 0px;
+    font-family: "Monospace";
+    font-size: 60px;
+    color: #291e50;
+}
+
+.name-field {
+    font-size: 20px;
+    color: #933082;
+    font-weight: bold;
+    margin-left: 80px;
+
+}
+
+.user-input {
+    width: 60vw;
+    border-color: white;
+    border-radius: 10px;
+    height: 40px;
+    font-size: 15px;
+    padding-left: 10px;
+    background-color: #ecfbfc;
+    margin-left: 80px;
+
+}
+
+
+.button1 {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #224f8a;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+
+}
+
+.button-container {
+    text-align: center;
+}
